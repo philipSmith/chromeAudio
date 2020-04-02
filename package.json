@@ -1,0 +1,22 @@
+{
+  "name": "chromeAudio",
+  "version": "1.0.0",
+  "description": "Electron chromium bug",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/philipSmith/chromeAudio.git",
+  "keywords": [
+    "Electron",
+    "chromium",
+    "audio",
+    "bug",
+    "demo"
+  ],
+  "author": "Phil Smith",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^8.2.0"
+  }
+}
